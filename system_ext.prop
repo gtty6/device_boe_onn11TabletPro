@@ -1,0 +1,10 @@
+# DPM
+persist.vendor.dpm.feature=11
+
+# Radio
+ro.telephony.sim_slots.count=2
+telephony.active_modems.max_count=2
+
+# Miscellaneous
+ro.product.property_source_order=odm,product,vendor,system_ext,system
+
